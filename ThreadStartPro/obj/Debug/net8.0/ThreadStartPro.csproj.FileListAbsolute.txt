@@ -1,0 +1,14 @@
+d:\Projet3\ThreadStartPro\bin\Debug\net8.0\ThreadStartPro.exe
+d:\Projet3\ThreadStartPro\bin\Debug\net8.0\ThreadStartPro.deps.json
+d:\Projet3\ThreadStartPro\bin\Debug\net8.0\ThreadStartPro.runtimeconfig.json
+d:\Projet3\ThreadStartPro\bin\Debug\net8.0\ThreadStartPro.dll
+d:\Projet3\ThreadStartPro\bin\Debug\net8.0\ThreadStartPro.pdb
+d:\Projet3\ThreadStartPro\obj\Debug\net8.0\ThreadStartPro.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projet3\ThreadStartPro\obj\Debug\net8.0\ThreadStartPro.AssemblyInfoInputs.cache
+d:\Projet3\ThreadStartPro\obj\Debug\net8.0\ThreadStartPro.AssemblyInfo.cs
+d:\Projet3\ThreadStartPro\obj\Debug\net8.0\ThreadStartPro.csproj.CoreCompileInputs.cache
+d:\Projet3\ThreadStartPro\obj\Debug\net8.0\ThreadStartPro.dll
+d:\Projet3\ThreadStartPro\obj\Debug\net8.0\refint\ThreadStartPro.dll
+d:\Projet3\ThreadStartPro\obj\Debug\net8.0\ThreadStartPro.pdb
+d:\Projet3\ThreadStartPro\obj\Debug\net8.0\ThreadStartPro.genruntimeconfig.cache
+d:\Projet3\ThreadStartPro\obj\Debug\net8.0\ref\ThreadStartPro.dll
