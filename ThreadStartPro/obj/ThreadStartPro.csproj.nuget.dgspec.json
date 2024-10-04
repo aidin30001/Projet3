@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projet3\\ThreadStartPro\\ThreadStartPro.csproj": {}
+    "D:\\Projet3\\ThreadStartPro\\ThreadStartPro.csproj": {}
   },
   "projects": {
-    "d:\\Projet3\\ThreadStartPro\\ThreadStartPro.csproj": {
+    "D:\\Projet3\\ThreadStartPro\\ThreadStartPro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projet3\\ThreadStartPro\\ThreadStartPro.csproj",
+        "projectUniqueName": "D:\\Projet3\\ThreadStartPro\\ThreadStartPro.csproj",
         "projectName": "ThreadStartPro",
-        "projectPath": "d:\\Projet3\\ThreadStartPro\\ThreadStartPro.csproj",
+        "projectPath": "D:\\Projet3\\ThreadStartPro\\ThreadStartPro.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "d:\\Projet3\\ThreadStartPro\\obj\\",
+        "outputPath": "D:\\Projet3\\ThreadStartPro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
